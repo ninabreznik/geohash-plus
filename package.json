@@ -1,0 +1,32 @@
+{
+  "name": "geohash-plus",
+  "version": "0.0.1",
+  "description": "Geohash, vivaldi coordinates, distance, median, mean and more",
+  "author": "@ninabreznik / DatDot.org",
+  "license": "MIT",
+  "dependencies": {
+    "geohash-distance": "^1.0.2",
+    "ngeohash": "^0.6.3"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninabreznik/geohash-plus.git"
+  },
+  "keywords": [
+    "geohash",
+    "network",
+    "coordinates",
+    "distance",
+    "longitude",
+    "latitude"
+  ],
+  "bugs": {
+    "url": "https://github.com/ninabreznik/geohash-plus/issues"
+  },
+  "homepage": "https://github.com/ninabreznik/geohash-plus#readme"
+}
